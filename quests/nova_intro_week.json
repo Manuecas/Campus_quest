@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "clue": "Start your journey where ideas brew and laptops glow\u2014grab a coffee and maybe a business plan. Where are you?",
+        "answer": "cafeteria"
+    },
+    {
+        "id": 2,
+        "clue": "This place holds knowledge in every corner. Go here when you're ready to hit the books hard.",
+        "answer": "library"
+    },
+    {
+        "id": 3,
+        "clue": "You're headed to where lectures echo and pens scribble fast. What's this academic hotspot?",
+        "answer": "auditorium"
+    },
+    {
+        "id": 4,
+        "clue": "Find the space where you can meet, brainstorm, and build the next big thing. Hint: it's all about startups.",
+        "answer": "venture lab"
+    },
+    {
+        "id": 5,
+        "clue": "Head to the open space with sea views where everyone chills between classes. Where are you?",
+        "answer": "atrium"
+    },
+    {
+        "id": 6,
+        "clue": "This office helps guide your future after graduation. Think CVs and career fairs.",
+        "answer": "career services"
+    }
+]
