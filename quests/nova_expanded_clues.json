@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "clue": "Start where ideas are pitched and coffee fuels ambition. It's where caffeine meets creativity.",
+        "answer": "betweencoffee"
+    },
+    {
+        "id": 2,
+        "clue": "This space is often reserved for silence, deep work, and rows of books. But don't mistake it for a nap zone.",
+        "answer": "library"
+    },
+    {
+        "id": 3,
+        "clue": "Home to career counseling, CV workshops, and networking events. What service helps you launch your future?",
+        "answer": "career services"
+    },
+    {
+        "id": 4,
+        "clue": "This indoor-outdoor space offers views of the ocean and a common spot for student breaks and informal meetings.",
+        "answer": "atrium"
+    },
+    {
+        "id": 5,
+        "clue": "Where entrepreneurial minds meet to create, pitch, and launch startups. Think 'incubator'.",
+        "answer": "venture lab"
+    },
+    {
+        "id": 6,
+        "clue": "Here, you might walk in nervous and leave inspired. Lectures, panels, and presentations happen here.",
+        "answer": "auditorium"
+    },
+    {
+        "id": 7,
+        "clue": "This office manages your academic life, schedules, and course registration. A hub for logistical brainwork.",
+        "answer": "academic services"
+    },
+    {
+        "id": 8,
+        "clue": "Group projects thrive here\u2014equipped with screens, whiteboards, and collaboration in mind.",
+        "answer": "study room"
+    },
+    {
+        "id": 9,
+        "clue": "An open-air space where graduation photos are taken and major events kick off. It surrounds the central fountain.",
+        "answer": "campus plaza"
+    },
+    {
+        "id": 10,
+        "clue": "Where numbers meet strategy and professors drill deep into finance. You might find Bloomberg terminals here.",
+        "answer": "finance lab"
+    }
+]
